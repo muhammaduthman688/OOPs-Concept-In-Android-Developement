@@ -1,4 +1,4 @@
-package com.usman.android.developer.oops.concep.oops.class_and_object
+package com.usman.android.developer.oops.concept.oops.class_and_object
 
 class Car(val model:String,val color:String) {
     fun start(){

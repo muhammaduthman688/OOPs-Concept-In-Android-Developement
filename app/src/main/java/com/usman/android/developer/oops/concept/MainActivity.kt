@@ -1,4 +1,4 @@
-package com.usman.android.developer.oops.concep
+package com.usman.android.developer.oops.concept
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

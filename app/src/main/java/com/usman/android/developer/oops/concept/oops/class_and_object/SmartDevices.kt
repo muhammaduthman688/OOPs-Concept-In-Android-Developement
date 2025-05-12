@@ -1,4 +1,4 @@
-package com.usman.android.developer.oops.concep.oops.class_and_object
+package com.usman.android.developer.oops.concept.oops.class_and_object
 
 /**
 this is the class which we are going to create in kotlin which is a blueprint of an object .

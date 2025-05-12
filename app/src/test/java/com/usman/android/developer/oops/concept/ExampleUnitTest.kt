@@ -1,4 +1,4 @@
-package com.usman.android.developer.oops.concep
+package com.usman.android.developer.oops.concept
 
 import org.junit.Test
 

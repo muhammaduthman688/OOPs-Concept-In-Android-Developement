@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.usman.android.developer.oops.concep"
+    namespace = "com.usman.android.developer.oops.concept"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.usman.android.developer.oops.concep"
+        applicationId = "com.usman.android.developer.oops.concept"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
